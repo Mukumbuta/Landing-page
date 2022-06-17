@@ -1,0 +1,31 @@
+html {
+    background-color: black;
+}
+
+main {
+    padding: 0 50px 0 50px;
+    background-color: white;
+    height: 100vh;
+    margin-left: 10rem;
+    margin-right: 10rem;
+}
+
+.navbar {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 20px;
+    
+    /*background-color: brown;
+    color: #fff;
+    position: fixed;
+    top: 0;
+    width: 100%;*/
+}
+
+
+
+img {
+    height: 100px;
+    width: 100px;
+}
